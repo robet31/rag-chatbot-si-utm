@@ -128,4 +128,4 @@ Semua konfigurasi ada di `.env` (copy dari `.env.example`):
 
 ## 🤝 Kontribusi
 
-Skripsi — Mohamad Robet, S1 Sistem Informasi UTM 2026
+Skripsi — Ar'raffi Abqori Nur Azizi, S1 Sistem Informasi UTM 2026
