@@ -51,3 +51,11 @@ eval_*.png
 
 # Model cache
 models/
+
+# Frontend
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+
+# Backend Python cache
+backend/__pycache__/

@@ -22,7 +22,7 @@ def load_documents(data_dir: str = "data") -> List[Document]:
             filepath = os.path.join(root, file)
             try:
                 if ext == ".txt":
-                    loader = TextLoader(filepath, encoding="utf-8", errors="replace")
+                    loader = TextLoader(filepath, encoding="utf-8")
                 elif ext == ".pdf":
                     loader = PyPDFLoader(filepath)
                 elif ext == ".docx":
@@ -36,8 +36,8 @@ def load_documents(data_dir: str = "data") -> List[Document]:
                 for d in docs:
                     d.metadata["source"] = file
                     documents.append(d)
-                print(f"  ✅ {file} ({len(docs)} chunks)")
+                print(f"  [OK] {file} ({len(docs)} chunks)")
             except Exception as e:
-                print(f"  ❌ {file}: {e}")
+                print(f"  [ERR] {file}: {e}")
 
     return documents

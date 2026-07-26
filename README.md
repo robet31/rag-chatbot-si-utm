@@ -6,126 +6,70 @@ Skripsi — Program Studi Sistem Informasi, Universitas Trunojoyo Madura (2026)
 
 ---
 
-## 📁 Struktur Proyek
+## Arsitektur
 
 ```
-RAG_SI_UTM/
-├── app.py                          # Streamlit web app (entry point)
-├── ingest.py                       # Script ingestion data → ChromaDB
-├── eval_ragas.py                   # Evaluasi RAGAS
-├── data_cleaner.py                 # Pembersih file text
-├── requirements.txt                # Python dependencies
-├── .env.example                    # Contoh environment variables
-├── .gitignore
-├── data/                           # Knowledge base (214 file)
-│   ├── *.txt, *.pdf, *.docx, *.xlsx
-│   ├── sop/
-│   └── buku_pedoman_skripsi/
-├── chromadb_si_utm/                # Vector store (auto-generated)
-├── src/rag_si_utm/                 # Python package modular
-│   ├── __init__.py
-│   ├── settings/                   # Konfigurasi model, embedding, chunking
-│   ├── embeddings/                 # HuggingFace embeddings (BGE)
-│   ├── llms/                       # Ollama + Online LLM
-│   ├── storage/                    # ChromaDB vector store
-│   ├── prompts/                    # RAG prompts
-│   ├── node_parsers/              # Text splitting
-│   ├── readers/                    # Document loader (PDF, TXT, DOCX, XLSX)
-│   └── workflows/                  # RAG workflow (retrieve → generate)
-├── tests/
-├── .github/workflows/
-│   ├── ci.yml                      # CI: lint + import test
-│   └── deploy-streamlit.yml        # Deploy ke Streamlit Cloud
-├── research_gap.md                 # Research gap dari 7 jurnal
-├── README_SETUP.md                 # Panduan setup lama
-└── README.md                       # File ini
+┌─────────────────────────────────────────────────────┐
+│                   Next.js Frontend                   │
+│  💬 Chat  |  ⚙️ Konfigurasi  |  📊 Evaluasi        │
+└──────────────────┬──────────────────────────────────┘
+                   │ HTTP / SSE Streaming
+┌──────────────────▼──────────────────────────────────┐
+│                 FastAPI Backend                      │
+│  POST /api/chat  |  GET /api/config  |  /evaluate   │
+└───────┬──────────────────────────────┬──────────────┘
+        │                              │
+┌───────▼──────┐            ┌──────────▼──────────┐
+│   ChromaDB   │            │  LLM (Ollama/Cloud) │
+│  Vector Store│            │  Qwen · Llama · Phi │
+│  3634 chunks │            │  Gemini · GPT       │
+└──────────────┘            └─────────────────────┘
 ```
 
-**Inspirasi arsitektur:** [RAGBot](https://github.com/RakeshReddyKondeti/RAGBot) by Rakesh Reddy Kondeti
+## Cara Jalankan
 
----
-
-## 🚀 Cara Cepat Jalankan
-
-### 1. Install Ollama
+### 1. Backend (FastAPI)
 
 ```bash
-# Download dari https://ollama.com
-ollama pull qwen2.5:7b
+pip install -r backend/requirements.txt
+cd backend && uvicorn api:app --host 0.0.0.0 --port 8765 --reload
 ```
 
-### 2. Install Python dependencies
+### 2. Frontend (Next.js)
 
 ```bash
-pip install -r requirements.txt
+cd frontend && npm install && npm run dev
 ```
 
-### 3. Ingest data ke ChromaDB
+Buka **http://localhost:3000**
 
-```bash
-python ingest.py
-```
+## Fitur
 
-### 4. Jalankan Streamlit
+| Fitur | Detail |
+|-------|--------|
+| **Chat** | Tanya jawab akademik dengan sumber dokumen |
+| **Konfigurasi** | Pilih model, atur K/temperature, input API key |
+| **Evaluasi** | Dashboard RAGAS, perbandingan model, uji langsung |
+| **Multi-model** | Ollama lokal + Cloud (Gemini, GPT) |
+| **Streaming** | Jawaban real-time via SSE |
 
-```bash
-streamlit run app.py
-```
+## Model LLM
 
-Buka http://localhost:8501
+| Model | Tipe | Ukuran | RAGAS Avg |
+|-------|------|--------|-----------|
+| Qwen 2.5 7B | Local (Ollama) | 4.4 GB | 0.89 |
+| Llama 3.1 8B | Local (Ollama) | 4.7 GB | 0.87 |
+| Phi-3 Mini 3.8B | Local (Ollama) | 2.5 GB | 0.79 |
+| GPT-4o Mini | Cloud API | — | — |
+| Gemini 1.5 Flash | Cloud API | — | — |
 
----
+## Knowledge Base
 
-## 🧠 Model LLM yang Didukung
+- **937 dokumen** (PDF, TXT, DOCX) dari SI UTM, HIMASI, PMB
+- **3.634 chunks** dengan chunk_size=512
+- **Embedding:** sentence-transformers/all-MiniLM-L6-v2
+- **Vector Store:** ChromaDB
 
-| Model | Tipe | Ukuran | Context |
-|-------|------|--------|---------|
-| Qwen 2.5 7B | Lokal (Ollama) | 4.4 GB | 32K |
-| Llama 3.1 8B | Lokal (Ollama) | 4.7 GB | 8K |
-| Phi-3 Mini 3.8B | Lokal (Ollama) | 2.5 GB | 128K |
-| GPT-4o Mini | Online | - | - |
-| Gemini 1.5 Flash | Online | - | - |
+## Skripsi
 
----
-
-## 🔄 Alur RAG
-
-```
-User Question
-    │
-    ▼
-┌─────────────────┐
-│  Retrieve (ChromaDB) │
-│  similarity_search   │
-└────────┬────────┘
-    │ (docs ditemukan?)
-    ├── Ya ──► Post-process ──► LLM Generate ──► Jawaban + Sources
-    └── Tidak ──► Fallback: "Informasi tidak tersedia"
-```
-
----
-
-## 📊 Evaluasi
-
-- **RAGAS:** Faithfulness, Answer Relevancy, Context Recall, Context Precision
-- **UEQ:** 30 responden, 6 skala (Daya tarik, Kejelasan, Efisiensi, dll)
-
----
-
-## 🔧 Environment Variables (.env)
-
-Semua konfigurasi ada di `.env` (copy dari `.env.example`):
-
-| Variable | Default | Deskripsi |
-|----------|---------|-----------|
-| `LLM_MODEL` | `qwen2.5:7b` | Model Ollama |
-| `TEMPERATURE` | `0.3` | Kreativitas model |
-| `EMBED_MODEL` | `BAAI/bge-small-id-v1.5` | Model embedding |
-| `CHUNK_SIZE` | `512` | Ukuran chunk |
-| `CHROMA_PATH` | `chromadb_si_utm` | Path ChromaDB |
-
----
-
-## 🤝 Kontribusi
-
-Skripsi — Ar'raffi Abqori Nur Azizi, S1 Sistem Informasi UTM 2026
+Ar'raffi Abqori Nur Azizi — S1 Sistem Informasi UTM 2026
