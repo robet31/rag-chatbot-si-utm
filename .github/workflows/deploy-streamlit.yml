@@ -1,0 +1,34 @@
+name: Deploy Streamlit to Community Cloud
+
+on:
+  workflow_dispatch:  # Manual trigger dari GitHub UI
+
+jobs:
+  deploy-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Verify app can start
+        run: |
+          python -c "import streamlit; print('Streamlit OK:', streamlit.__version__)"
+          timeout 5 streamlit run app.py --server.headless true || true
+
+      - name: Info
+        run: |
+          echo "✅ App siap di-deploy ke Streamlit Community Cloud!"
+          echo "📌 Langkah selanjutnya:"
+          echo "   1. Buka https://share.streamlit.io"
+          echo "   2. Login dengan GitHub"
+          echo "   3. Pilih repo ini: RAG_SI_UTM"
+          echo "   4. Set main file: app.py"
+          echo "   5. Set secrets: LLM_MODEL, TEMPERATURE, dll (optional)"

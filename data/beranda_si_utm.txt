@@ -1,0 +1,29 @@
+Program Studi Sistem Informasi Universitas Trunojoyo Madura
+Website: https://si.trunojoyo.ac.id
+
+Selamat Datang Di Website Prodi Sistem Informasi Universitas Trunojoyo Madura
+
+Program Studi Sistem Informasi bertujuan menghasilkan lulusan yang berkualitas dan mampu beradaptasi dengan perkembangan teknologi terbaru, menghasilkan penelitian yang dapat diaplikasikan dalam pemanfaatan serta penerapan sistem informasi untuk pengembangan potensi Madura, mewujudkan karya pengabdian kepada masyarakat melalui transformasi IPTEKS yang mendukung pengembangan sistem informasi di Madura, serta menjalin kerja sama yang baik dengan berbagai stakeholder di bidang sistem informasi.
+
+Program Studi Sarjana Sistem Informasi berada di bawah naungan Fakultas Teknik Universitas Trunojoyo Madura. Program Studi Sistem Informasi lebih berfokus pada pengintegrasian solusi berbasis teknologi informasi dengan proses bisnis untuk memenuhi kebutuhan informasi manajemen, yang memungkinkan tercapainya tujuan sebuah organisasi. Sebelum berdirinya Program Studi S-1 Sistem informasi berdiri pada tahun 2016, terdapat program studi D-3 Manajemen Informatika di UTM. S-1 Sistem Informasi didirikan untuk menjawab bagaimana cara menghubungkan bisnis dengan teknologi informasi. S1 Sistem Informasi UTM berdiri berdasarkan SK Menteri no. 78/KPT/I/2016 tepatnya pada 2 Maret 2016, berdasarkan LAKIP (Laporan Akuntabilitas Kinerja Instansi Pemerintahan) UTM tahun 2016.
+
+Kenapa Harus Sistem Informasi?
+1. Relevan dengan perkembangan zaman. Di era digital, hampir seluruh sektor bergantung pada sistem dan teknologi informasi.
+2. Peluang karier yang luas. Lulusan dapat berkarier sebagai analis sistem, pengembang perangkat lunak, analis data, administrator jaringan, hingga spesialis keamanan siber.
+3. Perpaduan teknologi dan bisnis. Sistem Informasi tidak hanya membahas aspek teknis, tetapi juga manajemen dan proses bisnis.
+4. Kemampuan pemecahan masalah. Mahasiswa dilatih menganalisis kebutuhan, merancang solusi, dan mengimplementasikan sistem yang efektif.
+5. Keterampilan multidisiplin. Mengembangkan kemampuan teknis, analitis, manajerial, serta komunikasi profesional.
+6. Kontribusi nyata melalui inovasi. Mampu merancang dan membangun perangkat lunak atau sistem yang memberikan dampak langsung bagi organisasi dan masyarakat.
+7. Kemampuan komunikasi strategis. Menjadi penghubung antara tim teknis dan pengguna non-teknis sehingga solusi yang dihasilkan tepat sasaran.
+
+Profil lulusan Prodi Sistem Informasi:
+- System Analyst: menganalisis kebutuhan sistem dalam sebuah organisasi serta merancang solusi sistem informasi yang sesuai agar proses bisnis dapat berjalan lebih efektif dan efisien.
+- Data Scientist: mengolah dan menganalisis data dalam jumlah besar menggunakan metode statistik, algoritma, dan teknologi machine learning untuk menemukan pola serta menghasilkan prediksi atau keputusan berbasis data.
+- UI/UX Designer: merancang tampilan (User Interface) dan pengalaman pengguna (User Experience) pada aplikasi atau website agar mudah digunakan, menarik, serta memberikan kenyamanan bagi pengguna.
+- Front-End Developer: mengembangkan bagian tampilan depan suatu website atau aplikasi yang langsung berinteraksi dengan pengguna.
+- Back-End Developer: mengembangkan bagian belakang sistem aplikasi, seperti pengelolaan server, database, serta logika sistem agar aplikasi dapat berjalan dengan baik.
+- Full-stack Developer: memiliki kemampuan untuk mengembangkan bagian front-end dan back-end dalam sebuah aplikasi atau website secara menyeluruh.
+- Website Developer: merancang, membangun, serta memelihara website agar dapat berjalan dengan baik dan dapat diakses oleh pengguna melalui internet.
+- Mobile App Developer: mengembangkan aplikasi yang berjalan pada perangkat mobile seperti smartphone atau tablet, baik pada sistem operasi Android maupun iOS.
+- Data Analyst: mengumpulkan, mengolah, serta menganalisis data untuk menghasilkan informasi yang dapat digunakan sebagai dasar pengambilan keputusan dalam organisasi.
+- Konsultan IT: memberikan saran, strategi, dan solusi terkait penggunaan teknologi informasi kepada organisasi atau perusahaan agar dapat meningkatkan kinerja dan efisiensi kerja.

@@ -1,0 +1,25 @@
+Laboratorium Common Computing - Teknik Informatika UTM
+
+Laboratorium Common Computing merupakan salah satu laboratorium jurusan Teknik Informatika dengan bidang minat yang ditawarkan yakni jaringan, sistem operasi, dan komputasi-komputasi umum.
+
+Fasilitas:
+1. Intel Core i7-8770, i5-6400, sampai i5-2400 dengan RAM 2GB-8GB
+2. Monitor 19 inch
+3. Dilengkapi dengan layar dan proyektor
+
+Kegiatan:
+1. Kegiatan Belajar Mengajar
+2. Praktikum
+3. Ruang Belajar
+4. Workshop Software Engineering
+
+Komunitas: Wargalab - komunitas dari anak informatika yang sering menghabiskan waktunya di Lab serta bertanggung jawab atas pemeliharaan Lab.
+
+Kepala Laboratorium: Yoga Dwitya Pramudita, S.Kom, M.Cs
+Bidang Keahlian: Computer Network, Distributed System, Data Mining
+Email: yoga@trunojoyo.ac.id
+
+Anggota:
+- Ika Oktavia Suzanti, S.Kom, M.Cs - Networking
+- Husni, S.Kom, M.T - Text Mining, High Performance Computing
+- Prof. Dr. Arif Muntasa, S.Si, M.T - Biometric, Biomedical, Computer Vision

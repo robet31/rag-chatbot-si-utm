@@ -1,0 +1,40 @@
+name: CI — RAG SI UTM
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  lint-and-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Check import (module structure)
+        run: |
+          python -c "
+import sys
+sys.path.insert(0, 'src')
+from rag_si_utm.settings import build_settings
+from rag_si_utm.embeddings import build_huggingface_embeddings
+from rag_si_utm.node_parsers import build_text_splitter
+from rag_si_utm.prompts import AKADEMIK_RAG_SYSTEM_PROMPT
+print('✅ Semua modul berhasil di-import')
+"
+
+      - name: Lint with Ruff
+        uses: chartboost/ruff-action@v1
+        with:
+          src: "./src"

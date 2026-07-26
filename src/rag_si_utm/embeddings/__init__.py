@@ -1,0 +1,1 @@
+from rag_si_utm.embeddings.hf_embeddings import build_huggingface_embeddings

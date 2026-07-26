@@ -1,0 +1,1 @@
+from rag_si_utm.readers.document_reader import load_documents

@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+*.egg
+dist/
+build/
+.eggs/
+*.manifest
+*.spec
+.installed.cfg
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Vector Store / ChromaDB
+chromadb_si_utm/
+storage/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+Thumbs.db
+[Dd]esktop.ini
+*.lnk
+
+# Data zip
+*.zip
+data.zip
+
+# SQLite DB
+*.db
+
+# Plots output
+eval_*.csv
+eval_*.png
+
+# Model cache
+models/

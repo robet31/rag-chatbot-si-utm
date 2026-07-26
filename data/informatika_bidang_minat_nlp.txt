@@ -1,0 +1,46 @@
+Bidang Minat Komputasi Bahasa Alami (Natural Language Processing) - Teknik Informatika UTM
+
+Bidang minat ini mengkaji berbagai metode untuk menyelesaikan masalah yang berkaitan dengan Bahasa alami (linguistics), dan Text Mining. Beberapa penelitian di bidang ini adalah information retrieval untuk pembangunan search engine, klasifikasi teks, analisis teks lintas bahasa, penilaian essay otomatis, Deteksi Plagiarism, dan spelling error correction.
+
+Topik utama dalam NLP:
+- Tokenisasi
+- Stemming dan Lemmatization
+- Named Entity Recognition (NER)
+- Part-of-Speech (POS) Tagging
+- Parsing Sintaksis
+- Dependency Parsing
+- Topic Modeling
+- Sentiment Analysis
+- Text Summarization (Ekstraktif & Abstraktif)
+- Word Embeddings (Word2Vec, GloVe, FastText)
+- Language Modeling
+- Machine Translation (RBMT, SMT, NMT)
+- Speech Recognition
+- Text-to-Speech (TTS)
+- Question Answering (QA)
+- Machine Comprehension
+- Coreference Resolution
+- Text Classification
+- Document Classification
+- Relation Extraction
+- Terminology Extraction
+- Event Extraction
+- Contextual Analysis
+- Natural Language Generation (NLG)
+- Conversational AI (Chatbots)
+- Information Retrieval
+- Plagiarism Detection
+- Fake News Detection
+- Cross-Lingual NLP
+- Low-Resource Language Processing
+- Morphological Analysis
+- Code-Switching Analysis
+- Error Detection and Correction
+- Dialogue Systems
+- Text Normalization
+- Multimodal NLP (Integrasi teks dengan data visual atau audio)
+
+Peta penelitian NLP mencakup:
+1. Mendalamnya Pemahaman Bahasa - peningkatan kemampuan sistem untuk memahami konteks dan nuansa dalam bahasa manusia
+2. Transfer Learning dan Pre-trained Models - penggunaan model yang telah dilatih sebelumnya untuk tugas-tugas tertentu
+3. Multimodal NLP - integrasi pemrosesan teks dengan data visual atau audio

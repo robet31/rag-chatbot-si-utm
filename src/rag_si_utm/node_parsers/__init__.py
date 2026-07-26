@@ -1,0 +1,1 @@
+from rag_si_utm.node_parsers.text_splitter import build_text_splitter

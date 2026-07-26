@@ -1,0 +1,37 @@
+Dosen Prodi Sistem Informasi Universitas Trunojoyo Madura
+Website: https://si.trunojoyo.ac.id/dosen/
+
+1. Doni Abdul Fatah, S.Kom., M.Kom - Korprodi
+   Research Interest: Human-Computer Interaction, Software Engineering, Information System
+   Pendidikan: S1 Teknik Informatika UTM, S2 Teknik Informatika UDINUS Semarang
+   Scopus ID: 57218393146
+
+2. Dr. Budi Dwi Satoto, S.T., M.Kom
+   Research Interest: Data Mining, Health Monitoring, Jaringan Komputer, Supply Chain, Deep Learning
+   Pendidikan: S1 Teknik Elektro UGM, S2 Teknik Informatika ITS, S3 Matematika & IPA UNAIR
+   Email: budids@trunojoyo.ac.id
+   Scopus ID: 57201197655
+
+3. Prof. Wahyudi Agustiono, S.Kom., M.Sc., Ph.D
+   Research Interest: Information Systems (design, adoption & implementation), Inter-organizational IS, green IS/IT, e-commerce, e-Business, Digitalpreneurship, IS/IT governance
+   Pendidikan: S1 Teknik Informatika ITS, S2 Global Information & Telcom Studies Waseda University Japan, S3 School of Information and Business Analytics Deakin University Australia
+   Scopus ID: 57201201345
+
+4. Dr. Yeni Kustiyahningsih, S.Kom., M.Kom
+   Research Interest: Enterprise Architecture Planning (EAP), Decision support system (DSS), Information System
+   Pendidikan: S1 Sistem Informasi STIKOM Surabaya, S2 Teknik Informatika ITS, S3 Matematika & IPA UNAIR
+   Email: ykustiyahningsih@trunojoyo.ac.id
+
+5. Muhammad Yusuf, ST, M.MT, PhD
+   Research Interest: E-Government, E-Participation, Smart City, Mobile Systems, Data Science, IoT, Information Systems, Social Media
+   Pendidikan: S1 Teknik Industri STT Telkom, S2 Manajemen Teknologi Informasi ITS, S3 School of Computing University of Portsmouth UK
+   Scopus ID: 56818711200
+
+6. Dr. Wahyudi Setiawan, S.Kom, M.Kom - Sekretaris Jurusan Teknik Informatika
+   Research Interest: Image Processing, Artificial Intelligence, Decision Support System
+   Pendidikan: S1 Teknik Komputer STIKOM Surabaya, S2 Sistem Informasi UNDIP, S3 Matematika & IPA UNAIR
+   Scopus ID: 57192812943
+
+7. Dr. Fitri Damayanti, S.Kom, M.Kom
+   Research Interest: Image Processing, Artificial Intelligent
+   Pendidikan: S1 Teknik Informatika ITS, S2 Teknik Informatika ITS, S3 Studi Lanjut Teknik Elektro ITS

@@ -1,0 +1,83 @@
+URL: https://si.trunojoyo.ac.id/disiplin-ilmu-dan-peran-lulusan-prodi-sistem-informasi/
+
+Disiplin Ilmu dan Peran Lulusan Prodi Sistem Informasi – si.trunodjoyo.ac.id
+Skip to content
+Kepala Program Studi Sistem Informasi Universitas Trunojoyo Madura ikut serta menghadiri Forum Kaprodi SI se-Indonesia yang diadakan oleh AISINDO dan APTIKOM di UPH Tangerang pada 2 Juli 2018 kemarin. Sri Herawati, S.Kom, M.Kom hadir bersama 140 Kaprodi SI dari seluruh Indonesia.
+Banyak hal yang didiskusikan di forum tersebut. Segala hal permasalahan dan dimanika Program Studi Sistem Informasi dibahas. Ada beberapa hal yang disepakati. Kaprodi yang hadir telah menyepakati item-item deskripsi disiplin ilmu Sistem Informasi yang menjelaskan karakteristik sekaligus ruang lingkup disiplin ilmu Sistem Informasi. berikut hasil kesepakatannya:
+Disiplin Ilmu Sistem Informasi adalah disiplin ilmu yang mempelajari berbagai aspek saat TEKNOLOGI INFORMASI bertemu dan berinteraksi dengan SISTEM SOSIAL (organisasi, perusahaan, masyarakat).
+Disiplin Ilmu Sistem Informasi adalah disiplin ilmu yang mempelajari TEKNOLOGI INFORMASI, MANUSIA, dan ORGANISASI (proses, struktur, fungsi, dan lain-lain).
+Disiplin ilmu Sistem Informasi (SI) adalah disiplin ilmu yang mengkaji bagaimana mengumpulkan data, memproses data hingga menghasilkan informasi, dan menyampaikan informasi.
+Disiplin Ilmu Sistem Informasi bersifat MULTI DISIPLIN yakni mempelajari, mengadopsi, dan mengolaborasikan berbagai teori, konsep, dan metode dari disiplin ilmu-ilmu lain, seperti Ilmu Komputer, Software Engineering, Psikologi, Ilmu Sosial, Manajemen, Statistika, dan lainnya.
+Meski disiplin ilmu Sistem Informasi bersifat Multi Disiplin dan mempelajari interaksi antara Teknologi Informasi dengan Sistem Sosial, namun yang menjadi kekhasan pengajaran dan penelitian Sistem Informasi adalah bahwa obyek utama yang menjadi pusat perhatian (Center of Attention) adalah Teknologi Informasi (bukan sistem sosialnya) dan bagaimana sukses menyelesaikan permasalahan sistem sosial tersebut dengan Teknologi Informasi.
+Disiplin ilmu Sistem Informasi adalah disiplin ilmu ‘Hilir’ (Applied Discipline) yakni mempelajari bagaimana Teknologi Informasi diimplementasikan untuk menyelesaikan permasalahan nyata di organisasi maupun masyarakat dengan sukses.
+Disiplin ilmu Sistem Informasi mempelajari berbagai aspek mencakup PERENCANAAN Sistem Informasi, PERANCANGAN Sistem Informasi, PEMBANGUNAN Sistem Informasi, OPERASIONAL Sistem Informasi, EVALUASI/Audit Sistem Informasi, Faktor-Faktor yang menyebabkan sebuah SI/TI dapat diterima target penggunanya (ADOPTION/DIFFUSION), Bagaimana sebuah SI/TI digunakan target penggunanya (DOMESTICATION), dan Bagaimana Pengaruh/Dampak penggunaan sebuah SI/TI (IMPACTS atau POST ADOPTION STAGE)
+Disiplin ilmu Sistem Informasi mempelajari aktivitas-aktivitas organisasi pada level STRATEGIS, MANAJERIAL, sekaligus OPERASIONAL dalam Mengumpulkan, Memproses, Menyimpan, Mendistribusikan, dan Menggunakan INFORMASI dan Teknologi yang terkait.
+Posisi Disiplin Ilmu Sistem Informasi berada ditengah-tengah antara disiplin-disiplin ilmu murni ‘Pembuat TEORI’ (Seperti Matematika, Ilmu Komputer), disiplin ilmu ‘Pembuat TEKNOLOGI’ (seperti Teknik Elektro, Rekayasa Perangkat Lunak, Sistem Komputer), dengan disiplin ilmu ‘PENGGUNA Teknologi’ (seperti Manajemen, Bisnis, Marketing, Kedokteran). Disiplin Ilmu Sistem Informasi adalah ‘PENDAYA-GUNA Teknologi’, mencakup mengidentifikasikan masalah yang ada, mengidentifikasi teknologi yang telah dibuat oleh disiplin ilmu ‘Pembuat Teknologi’, merumuskan dan mengimplementasikan Solusi-Solusi berbasis Teknologi Informasi (termasuk merancang Proses Bisnisnya, merancang Struktur Organisasi, SOP, staffing, membangun aplikasi, dan sistem evaluasinya).
+Perbedaan disiplin ilmu Sistem Informasi (SI) dengan disiplin ilmu Teknologi Informasi (TI) adalah bahwa SI berorientasi INFORMASI sedangkan TI lebih pada pemanfaatan TEKNOLOGI Informasi.
+Produk PENELITIAN disiplin ilmu Sistem Informasi Tidak Hanya berupa prototype Aplikasi, namun dapat berupa Aplikasi, Model, Metode, Kerangka Kerja, Perangkat Manajemen TI, maupun Dokumen/Laporan hasil kajian”.
+Pendidikan Sistem Informasi menghasilkan Lulusan yang mampu menjadi ‘PENGHUBUNG’ antara orang Bisnis (Non-Technical) dengan orang TEKNOLOGI INFORMASI (Technical). Ia memahami konsep, metode, dan solusi Bisnis dan Organisasi sekaligus memahami konsep, metode, & solusi Teknologi Informasi.
+Aspek Budaya dan Manajemen Bisnis masuk dalam lingkup bahasan Sistem Informasi.
+Metode penelitian Sistem Informasi: selain prototype, juga kuantitatif dan kualitatif.
+Disiplin ilmu Sistem Informasi mengkaji kompetensi pemrograman yang yang berorientasi pada efisiensi dan efektifitas solusi bisnis (bukan hanya kebenaran metode berdasar teori), sehingga pemrograman di dalam disiplin ilmu SI mempertimbangkan (dan tidak dapat dilepaskan dari) lyer-lyer arsitektur sistem di atasnya seperti informasi dan proses-proses bisnisnya.
+Peran-peran Domain Paling Dominan SI
+(IS Primary Domain Roles)
+lulusan prodi SI hasil kesepakatan Forum Pimpian Prodi SI tahun 2018 mencakup 5 peran, yakni:
+PD1. System Analyst
+PD2. Business Analyst
+PD3. Auditor Sistem Informasi
+PD4. Manajer Proyek Sistem Informasi
+PD5. ERP Analyst
+Sementara itu, peran-peran Domain SI (IS Domain Roles) lulusan prodi SI hasil kesepakatan Forum Pimpian Prodi SI tahun 2018 mencakup 12 peran, yakni:
+DSI1. Data Analyst
+DSI2. Data Architect
+DSI3. IT Planning Analyst
+DSI4. Enterprise Architect
+DSI5. Enterprise Application (focus on Datawarehouse)
+DSI6. Service Desk Analyst/Manager
+DSI7. Konsultan Sistem Informasi
+DSI8. Enterpreneur Bisnis Berbasis TI
+DSI9. Chief Information Officer (CIO)
+DSI10. Asisten Peneliti Sistem Informasi
+DSI11. Competitive Intelligence Analyst
+DSI12. UI/UX Designer
+Sebagai tindak lanjut dari berbagai keputusan Pertemuan pertama Forum Pimpinan Prodi SI ini, adalah:
+3 Juli – 30 November 2018: Masing-masing Prodi SI mulai mengumpulkan data-data Pengetahuan dan Ketrampilan untuk masing-masing Peran Domain Dominan SI (System Analyst, Business Analyst, Auditor Sistem Informasi, Manajer Proyek SI, dan ERP Analyst) dalam bentuk mengundang praktisi/profesional di peran tersebut sebagai Dosen Tamu, mengunjungi industri/perusahaan/pemda, survey alumni, atau survey ke kalangan praktisi. Kegiatan pengumpulan data ini terbuka untuk Prodi-Prodi SI, baik yang telah menandatangani dokumen Gentle Agreement maupun yang belum menandatangani, demi kemajuan dan perkembangan disiplin ilmu Sistem Informasi di Indonesia.
+Leave a Comment
+Cancel Reply
+Alamat email Anda tidak akan dipublikasikan.
+Ruas yang wajib ditandai
+*
+Type here..
+Name*
+Email*
+Website
+Beritahu saya akan tindak lanjut komentar melalui surel.
+Beritahu saya akan tulisan baru melalui surel.
+Δ
+Situs ini menggunakan Akismet untuk mengurangi spam.
+Pelajari bagaimana data komentar Anda diproses
+.
+Search for:
+Search
+Link
+Kuisioner Akreditasi
+Ristek Dikti
+Universitas Trunojoyo Madura
+Fakultas Teknik UTM
+Jurnal SIMANTEC
+ALUMNI
+LANDING PAGE AKREDITASI SI
+VIDEO PROFIL SISTEM INFORMASI
+Download
+Panduan Kerja Praktek (KP)
+Buku Pedoman Skripsi SI
+Panduan Akademik Sistem Informasi 2023
+Kalender_akademik 23/24
+Prosedur operasional standar (SOP)
+Sertifikasi Akreditasi Prodi
+Pos-pos Terbaru
+Komentar Terbaru
+Arsip
+Kategori
+Meta
+Scroll to Top

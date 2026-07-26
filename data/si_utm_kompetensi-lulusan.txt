@@ -1,0 +1,94 @@
+URL: https://si.trunojoyo.ac.id/kompetensi-lulusan/
+
+Kompetensi Lulusan – si.trunodjoyo.ac.id
+Skip to content
+Profil Lulusan :
+Profil
+lulusan adalah peran yang diharapkan dapat dilakukan oleh lulusan prodi di
+masyarakat atau dunia kerja. Profil lulusan merupakan tolok ukur untuk melakukan
+perumusan kurikulum program studi, target, sekaligus tolok ukur keberhasilan
+suatu kurikulum dalam menghasilkan lulusan dengan kompetensi yang
+diinginkan.Berkaitan dengan penentuan profil lulusan, maka program studi S1
+Sistem informasi Universitas Trunojoyo Madura mengakomodasi masukan dari
+stakeholder, pengguna lulusan dan rekomendasi dari asosiasi profesi tingkat
+dunia yaitu (AIS dan ACM) dan asosiasi tingkat nasional yaitu AISINDO dan
+Aptikom serta peluang lulusan, maka ditetapkan bahwa profil lulusan/peran yang
+diharapkan yaitu:
+System Analyst
+Adalah
+peran merancang struktur aplikasi yang akan dibangun sebagai dasar/acuan
+programmer dalam membuat aplikasi yang efektif menyelesaikan masalah, handal,
+& well-written. Pelatihan ERP, SAP, training dosen sesuai dengan
+pemetaaannya, studi banding.
+Business Analyst
+Adalah
+peran mereview, menganalisis, dan mengevaluasi permasalahan bisnis, proses
+bisnis, fungsi/struktur organisasi, sistem informasi yang digunakan dan data
+dasar informasi serta merekomendasikan solusi-solusi permasalahan  atau peningkatan performa bisnis perusahaan.
+Auditor sistem informasi
+Adalah peran mengevaluasi dan menemukan bukti-bukti
+apakah sebuah sistem informasi telah memenuhi standar tertentu (termasuk di
+dalamnya mengembangkan perangkat audit, melaksanakan  proses audit dan membuat laporan hasil audit.
+Manajer Proyek sistem informasi
+Adalah peran mengoordinir dan mengelola sumber daya dan
+aktivitas-aktivitas pembangunan sistem informasi (dapat berupa proyek
+pengembangan aplikasi dan/atau proyek tata kelola teknologi informasi).
+ERP Analyst
+Adalah peran mereview, menganalisis , dan mengevaluasi
+permasalahan bisnis, proses bisnis dan merekomendasikan solusi-solusi
+permaslahan atau peningkatan performa bisnis dengan paket/modul sistem ERP(termasuk
+mendukung aktivitas perencanaan, implementasi, perawatan, dan optimisasi sistem
+ERP)
+B. Skema Kompetensi sesuai Standar Kompetensi Kerja Nasional Indonesia/SKKNI,kesepakatan Assosiasi Profesi, atau badan/lembaga diklat yang diacu (JIKA ADA. Mohon dituliskan pula landasan hukum/dasar penetapan skema kompetensinya):
+Sistem Perencanaan Sumber Daya Perusahaan (
+Enterprise Resource Planning
+)
+Enterprise Architecture Design
+Database Programmer
+C. Kompetensi
+KETERAMPILAN
+UMUM
+yang harus dimiliki:
+Mampu  menerapkan
+pemikiran logis, kritis, sistematis, dan inovatif dalam konteks pengembangan
+atau implementasi ilmu pengetahuan dan teknologi yang memperhatikan dan
+menerapkan nilai humaniora yang sesuai dengan bidang keahliannya;
+Mampu  melakukan
+proses evaluasi diri terhadap kelompok kerja yang berada di bawah tanggung
+jawabnya, dan mampu mengelola pembelajaran secara mandiri;
+D.
+Kompetensi
+KETERAMPILAN KHUSUS
+yang harus dimiliki
+Mampu
+mendesain, membangun dan mengelola basis data serta mampu  menggunakan sistem
+manajemen basis data berdasarkan kebutuhan sistem
+Mampu menganalisis,  memvisualisasi data, menemukan pola dari hasil
+analisis data dan menyusun
+business plan berbasis teknologi terbaru.
+Mampu menjadi
+enterprenuer memanfaatkan teknologi.
+Search for:
+Search
+Link
+Kuisioner Akreditasi
+Ristek Dikti
+Universitas Trunojoyo Madura
+Fakultas Teknik UTM
+Jurnal SIMANTEC
+ALUMNI
+LANDING PAGE AKREDITASI SI
+VIDEO PROFIL SISTEM INFORMASI
+Download
+Panduan Kerja Praktek (KP)
+Buku Pedoman Skripsi SI
+Panduan Akademik Sistem Informasi 2023
+Kalender_akademik 23/24
+Prosedur operasional standar (SOP)
+Sertifikasi Akreditasi Prodi
+Pos-pos Terbaru
+Komentar Terbaru
+Arsip
+Kategori
+Meta
+Scroll to Top
