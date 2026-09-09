@@ -1,1 +1,1 @@
-fix: correct off-by-one on loop iteration - 2026-09-08
+perf: optimize database query execution - 2026-09-09
