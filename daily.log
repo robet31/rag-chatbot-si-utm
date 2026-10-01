@@ -1,1 +1,1 @@
-fix: prevent crash on malformed request - 2026-09-28
+fix: correct typo in error message - 2026-10-01
