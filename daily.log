@@ -1,1 +1,1 @@
-test: add unit test for edge case - 2026-10-05
+fix: resolve race condition on async - 2026-10-06
