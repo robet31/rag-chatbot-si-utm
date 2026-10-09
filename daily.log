@@ -1,1 +1,1 @@
-fix: resolve race condition on async - 2026-10-08
+fix: resolve conflict between dependencies - 2026-10-09
