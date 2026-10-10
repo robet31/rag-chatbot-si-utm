@@ -1,1 +1,1 @@
-chore: remove unused imports & dead code - 2026-10-10
+fix: resolve undefined variable on session - 2026-10-10
