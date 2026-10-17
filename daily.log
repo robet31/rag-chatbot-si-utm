@@ -1,1 +1,1 @@
-chore: remove unused imports & dead code - 2026-10-15
+fix: resolve race condition on async - 2026-10-17
