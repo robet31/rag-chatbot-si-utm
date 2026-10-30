@@ -1,1 +1,1 @@
-fix: patch memory leak on long process - 2026-10-27
+refactor: clean up redundant logic in handler - 2026-10-30
